@@ -12,6 +12,7 @@ Duration:August to September 2024
 
 ##Objective
 The goal of this project is to create a simple, interactive calculator program using Python. The calculator will prompt the user to enter two numbers and select an arithmetic operation (addition, subtraction, multiplication, or division). It will then perform the chosen operation and display the result.
+
 ##Features:
 User Input: The program will prompt the user to enter two numerical values.
 Operation Selection: The user will choose an operation from a list of options.
